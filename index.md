@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Homepage
+title: 
 tagline: 
 ---
 {% include JB/setup %}
