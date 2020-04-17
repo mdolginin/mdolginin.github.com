@@ -8,8 +8,9 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-theme: minima
 title : Little Big
+theme: jekyll-theme-minimal
+title : Максим Долгинин
 tagline: 
 author :
   name : Максим Долгинин
