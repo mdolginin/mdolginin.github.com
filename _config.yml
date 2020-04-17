@@ -1,5 +1,6 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
+theme: minima
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
@@ -9,7 +10,6 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Little Big
-theme: jekyll-theme-minimal
 tagline: 
 author :
   name : Максим Долгинин
