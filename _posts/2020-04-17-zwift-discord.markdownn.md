@@ -22,7 +22,7 @@ tags: []
 
 1. Умный велостанок или беговая дорожка.
 2. Датчик пульса
-2. Учетная запись и приложение [Zwift][Zwift_link] установленное на компьютер или мобильное устройство [Android](https://play.google.com/store/apps/details?id=com.zwift.zwiftgame) или [iOS или Apple TV](https://apps.apple.com/ru/app/zwift-ride-and-run/id1134655040)
+2. Учетная запись и приложение [Zwift][Zwift_link] установленное на компьютер или мобильное устройство [Android][Zwift_Anndroid] или [iOS или Apple TV][Zwift_iOS]
 3. Мобильное приложение Zwift Companion. Есть в Магазинах приложений [Google Play Store][Companion_Android] и [Apple iOS App Store][Companion_iOS]
 4. Учетная запись и приложение [Discord][Discord_link] на компьютере или мобильном устройстве
 
@@ -86,6 +86,8 @@ tags: []
 
 
 [Zwift_link]: https://zwift.com/
+[Zwift_Android]: https://play.google.com/store/apps/details?id=com.zwift.zwiftgame
+[Zwift_iOS]: https://apps.apple.com/ru/app/zwift-ride-and-run/id1134655040
 [Discord_link]: https://discordapp.com
 [Discord_Android]: https://play.google.com/store/apps/details?id=com.zwift.zwiftgame
 [Discord_iOS]: https://apps.apple.com/ru/app/zwift-ride-and-run/id1134655040
