@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Групповые тренировки в Zwift с голосовым чатом в Discord"
+title: "Групповые тренировки в Zwift с голосовым чатом Discord"
 description: "Групповые тренировки в Zwift с голосовым чатом"
 categories: Спорт
 date:   2020-04-17
 tags: []
 ---
+
+# Групповые тренировки в Zwift с голосовым чатом Discord
 
 В этой статье я хочу рассказать как можно разнообразить и сделать немного интересней ваши тренировки на вело станке или беговой дорожке.
 
@@ -20,9 +22,9 @@ tags: []
 
 1. Умный велостанок или беговая дорожка.
 2. Датчик пульса
-2. Учетная запись и приложение [Zwift](https://zwift.com/) установленное на компьютер или мобильное устройство [Android](https://play.google.com/store/apps/details?id=com.zwift.zwiftgame) или [iOS или Apple TV](https://apps.apple.com/ru/app/zwift-ride-and-run/id1134655040)
-3. Мобильное приложение Zwift Companion. Есть в Магазинах приложений [Google Play Store](https://play.google.com/store/apps/details?id=com.zwift.android.prod) и [Apple iOS App Store](https://itunes.apple.com/us/app/zwift-mobile-link/id934083691?mt=8)
-4. Учетная запись и приложение [Discord](https://discordapp.com) на компьютере или мобильном устройстве
+2. Учетная запись и приложение [Zwift][Zwift_link] установленное на компьютер или мобильное устройство [Android](https://play.google.com/store/apps/details?id=com.zwift.zwiftgame) или [iOS или Apple TV](https://apps.apple.com/ru/app/zwift-ride-and-run/id1134655040)
+3. Мобильное приложение Zwift Companion. Есть в Магазинах приложений [Google Play Store][Companion_Android] и [Apple iOS App Store][Companion_iOS]
+4. Учетная запись и приложение [Discord][Discord_link] на компьютере или мобильном устройстве
 
 При желании можете использовать телевизор с большим экраном и беспроводные наушники с микрофоном.
 
@@ -34,12 +36,52 @@ tags: []
 
 ## Настройка Zwift
 
-1. Регистрируемся на сайте
+1. Регистрируемся на [сайте Zwift][Zwift_link]
 2. Настраиваем выгрузку тренировок во внешние приложения (например `Strava` или `Garmin Connect`)
 2. Устанавливаем приложение на устройство
 4. Входим в приложение под своей учетной записью
-5. Далее Zwift найдет наше спортивное оборудование.
+5. Далее Zwift найдет ваше спортивное оборудование.
+
+## Ищем друзей в Zwift Companion
+
+1. Запускаем Zwift Companion
+1. Входим в аккаунт Zwift
+1. Находим в поиске тех, кого хотим добавить в друзя
 
 ## Настройка Discord
 
-## Планирвоание и запуск групповой тренировки
+1. Устанавливаеем приложение на компьютер с сайта [Discord][Discord_link], либо на мобильное устрйоство через магазин приложений [Apple][Discord_iOS] или [Google][Discord_Android].
+2. Регистируемся в приложении
+3. Подключаемся к существующему чату, либо создаем.
+
+## Планирование и запуск групповой тренировки
+
+### Создание митапа
+
+Чтобы запланирвоать групповую тренировку необходимо:
+
+1. В приложении **Zwift Companion** выбрать одного из друзей, с которым вы собираетесь провести групповую тренировку и нажать кнопку `REQUEST MEETUP`
+2. Выбрать время начала митапа, тип тренировки и трассу
+3. Добавть к митапу остальных друзей из вашего списка
+
+**Некоторые ограничения Zwift при создании митапов**
+
+- к митапу можно добавить только тех, кто добавил вас в друзья
+- максимальное количество друзей в митапе - **50** человек
+- вы можете запланировать ваш митап не дальше, чем на 7 дней вперед
+
+### Запуск групповой тренировки
+
+1. Открываем Discord и подключаемся к голосовому чату
+2. За несколько минут до начала митапа заходим в Zwift и начинаем любой заезд.
+3. Когда внизу слева появится конпка `JOIN MEETUP` нажимаем на нее и переходим к вашему групповому заезду.
+4. В обозначенное время ваш заезд начнется автоматически.
+
+
+[Zwift_link]: https://zwift.com/
+[Discord_link]: https://discordapp.com
+[Discord_Android]: https://play.google.com/store/apps/details?id=com.zwift.zwiftgame
+[Discord_iOS]: https://apps.apple.com/ru/app/zwift-ride-and-run/id1134655040
+[Companion_Android]: https://play.google.com/store/apps/details?id=com.zwift.android.prod
+[Companion_iOS]: https://itunes.apple.com/us/app/zwift-mobile-link/id934083691?mt=8
+[Zwift_meetup]: https://zwift.com/news/19189-zwift-how-to-ride-with-friends
