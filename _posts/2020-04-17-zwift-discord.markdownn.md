@@ -89,8 +89,8 @@ tags: []
 [Zwift_Android]: https://play.google.com/store/apps/details?id=com.zwift.zwiftgame
 [Zwift_iOS]: https://apps.apple.com/ru/app/zwift-ride-and-run/id1134655040
 [Discord_link]: https://discordapp.com
-[Discord_Android]: https://play.google.com/store/apps/details?id=com.zwift.zwiftgame
-[Discord_iOS]: https://apps.apple.com/ru/app/zwift-ride-and-run/id1134655040
+[Discord_Android]: https://play.google.com/store/apps/details?id=com.discord
+[Discord_iOS]: https://apps.apple.com/us/app/discord-chat-for-games/id985746746
 [Companion_Android]: https://play.google.com/store/apps/details?id=com.zwift.android.prod
 [Companion_iOS]: https://itunes.apple.com/us/app/zwift-mobile-link/id934083691?mt=8
 [Zwift_meetup]: https://zwift.com/news/19189-zwift-how-to-ride-with-friends
