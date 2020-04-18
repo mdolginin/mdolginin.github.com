@@ -36,7 +36,7 @@ tags: []
 
 У меня Zwift установлен на iPad'е, датчик пульса Wahoo с поддержкой `Bluetooth`, станок Tacx Flux 2, а Discord установлен на ноутбуке.
 
-![My helpful screenshot](/assets/IMG_6869.HEIC)
+![My helpful screenshot](/assets/IMG_6869.jpg)
 
 Групповые велозаезды и забеги создаются одинаково, далее я расскажу как это делается на примере велозаезда.
 
