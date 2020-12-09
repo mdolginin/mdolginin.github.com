@@ -1,4 +1,13 @@
-## Coffee formula
+---
+layout: post
+title: "Coffee formula"
+description: "Recipes for traditional espresso-based drinks."
+categories: Coffee
+date:   2020-12-09
+tags: []
+---
+
+# Coffee formula
 
 Recipes for traditional espresso-based drinks.
 
