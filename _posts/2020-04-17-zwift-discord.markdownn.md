@@ -3,6 +3,7 @@ layout: post
 title: "Групповые тренировки в Zwift с голосовым чатом Discord"
 description: "Групповые тренировки в Zwift с голосовым чатом"
 categories: Спорт
+pdf: true
 date:   2020-04-17
 tags: []
 ---
